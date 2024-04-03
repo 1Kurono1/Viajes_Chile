@@ -174,3 +174,23 @@ height: 100vh;
   
     height: 150px;
 }
+
+footer{
+    
+    background-color: rgb(21, 179, 241);
+}
+
+#bloque2_footer div div .relleno_i{
+
+    width:25vh;
+    max-width:35px;
+    height:25vh;
+    max-height:35px;
+    position:relative;
+}
+
+footer div #bloque2_footer i{
+
+    color: rgb(21, 179, 241);
+    background-color: #ffffff;
+}
