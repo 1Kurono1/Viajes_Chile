@@ -110,4 +110,33 @@
 
   /*----- FIN FONTS -----*/
 
+  body{
 
+    background-color: #000000;
+}
+
+#menu {
+       
+    z-index: 999999;
+  }
+
+.ancho_500px{
+
+    width: 500px;
+}
+
+.navbar > .container{
+
+    flex-wrap: initial !important;
+}
+
+.img_svg{
+  
+    width: 2em;
+}
+
+nav div div div h5 a{
+
+    text-decoration: none;
+    color: #ffffff;
+}
